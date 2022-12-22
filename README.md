@@ -1,16 +1,13 @@
-### Hi there 👋
+# Colton English aka Sparksis
 
-<!--
-**sparksis/sparksis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You might have gotten here by mistake
 
-Here are some ideas to get you started:
+This is my personal, non-professional github account.  Here are some more profiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Professional Github Account
+
+[@ColtonEnglish](https://github.com/coltonenglish)
+
+#### My website and full resume
+
+[coltonenglish.me](https://coltonenglish.me) (hint: the splash page is fully printable if you need a copy of my resume).
