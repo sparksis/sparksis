@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sparksis
+  description: The system operator
+spec:
+  profile:
+    displayName: Colton English
+    email: colton@sparksis.com
+  memberOf: [admin]
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: admin
+spec:
+  type: team
+  children: []
