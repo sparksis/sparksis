@@ -3,6 +3,8 @@ kind: User
 metadata:
   name: sparksis
   description: The system operator
+  annotations:
+    github.com/project-slug: sparksis/sparksis
 spec:
   profile:
     displayName: Colton English
