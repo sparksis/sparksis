@@ -11,6 +11,7 @@ spec:
     email: colton@sparksis.com
   memberOf: [admin]
 ---
+apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: demo-user
