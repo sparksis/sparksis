@@ -11,6 +11,15 @@ spec:
     email: colton@sparksis.com
   memberOf: [admin]
 ---
+kind: User
+metadata:
+  name: demo-user
+spec:
+  profile:
+    displayName: Colton English
+    email: english@rushstreetinteractive.com
+  memberOf: [admin]
+---
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
