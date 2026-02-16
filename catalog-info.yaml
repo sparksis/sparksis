@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: sparksis
-  description: This is Colton English's personal GitHub account, distinct from his professional one, and includes links to his professional GitHub and personal website/resume.
+  description: This is Colton English's personal GitHub account, separate from his professional one, and includes links to his professional GitHub and personal website/resume.
   annotations:
     github.com/project-slug: sparksis/sparksis
 spec:
@@ -15,7 +15,7 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: demo-user
-  description: This is Colton English's personal GitHub account, distinct from his professional one, and includes links to his professional GitHub and personal website/resume.
+  description: This is Colton English's personal GitHub account, separate from his professional one, and includes links to his professional GitHub and personal website/resume.
 spec:
   profile:
     displayName: Colton English
@@ -26,7 +26,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: admin
-  description: This is Colton English's personal GitHub account, distinct from his professional one, and includes links to his professional GitHub and personal website/resume.
+  description: This is Colton English's personal GitHub account, separate from his professional one, and includes links to his professional GitHub and personal website/resume.
 spec:
   type: team
   children: []
